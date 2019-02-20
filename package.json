@@ -1,6 +1,6 @@
 {
   "name": "@daosro/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint config for React based on airbnb config",
   "main": "index.js",
   "repository": "https://github.com/daosro/eslint-config.git",
